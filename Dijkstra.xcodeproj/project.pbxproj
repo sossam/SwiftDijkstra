@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4CF4078325C17BFF00A9F274 /* MaxHeap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF4078225C17BFF00A9F274 /* MaxHeap.swift */; };
 		4CFDE47825BEBE1E00166D80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFDE47725BEBE1E00166D80 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4CF4078225C17BFF00A9F274 /* MaxHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxHeap.swift; sourceTree = "<group>"; };
 		4CFDE47425BEBE1E00166D80 /* Dijkstra */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Dijkstra; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CFDE47725BEBE1E00166D80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				4CFDE47725BEBE1E00166D80 /* main.swift */,
+				4CF4078225C17BFF00A9F274 /* MaxHeap.swift */,
 			);
 			path = Dijkstra;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CF4078325C17BFF00A9F274 /* MaxHeap.swift in Sources */,
 				4CFDE47825BEBE1E00166D80 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
